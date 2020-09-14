@@ -8,8 +8,9 @@ mcbbs链接</a></br>
 详解视频（blibili）</a></br>
 
 
-</br><h2>已知问题：</h2></br>
+</br><h2>已知问题：</h2>
 某些情况蜘蛛血量过高
+</br>ui文件未上传
 
 <p>制作团队 <a href="www.qiulishe.tk" title="Title">
 秋梨社</a> </p>

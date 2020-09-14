@@ -1,4 +1,4 @@
-# minecraft_cc_desinger
+# minecraft_cc_desinger v0.1
 一个实用的mc生存数据包生成器</br>
 通过本工具，你可以很轻松的创建属于自己的生存挑战，无需任何编程基础或者mc指令基础。
 
